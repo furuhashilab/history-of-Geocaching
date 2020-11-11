@@ -73,4 +73,4 @@ GPS（全地球測位システム）は、米国国防総省によって開発�
 原文：   
 https://geocaching.gpsgames.org/history/?fbclid=IwAR1RlOUiEMNYyVaYJUQzOrcgpn1praEzDPBnpq2646WvhZdCsSLcC0Bzlb0   
 
-ShogoHirasawa CCBY4.0
+© Shogo Hirasawa, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
