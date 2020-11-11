@@ -20,7 +20,7 @@ https://medium.com/furuhashilab/%E3%83%AC%E3%82%BF%E3%83%BC%E3%83%9C%E3%82%AF%E3
 
 位置情報を利用したゲームは、今後どのような進化を遂げるでしょうか。みなさんも考えてみてはどうでしょうか。
 
-Shogo Hirasawa CCBY4.0
+© Shogo Hirasawa, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 原文:
 https://www.geocaching.com/blog/2020/11/geocaching-through-the-ages-a-short-history-of-location-based-games/?fbclid=IwAR10xNzGuSzMf5xbl8Z5Sn4nErYfevYoP92o4g6xkkn-Ngis8DP-7ALWdmc
