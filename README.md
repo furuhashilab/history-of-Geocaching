@@ -70,7 +70,24 @@ GPS（全地球測位システム）は、米国国防総省によって開発�
 
 2006年の初めには、多くのジオキャッシュのリストを掲載したウェブサイトが出現しました。これらのサイトの中には短命なものもあれば、持続力のあるものもありました。既知のサイト（ジオキャッシュのリストを受け付け始めた日付を含む）。
 
+* www.triax.com/yngwie/gps.html (started May, 2000; now dead)
+* geocaching.com (Sep, 2000)
+* geopeitus.ee (Feb, 2001)
+* navicache.com (Mar, 2001)
+* geocachingworldwide.com (Jun, 2001; now dead)
+* geotreasures.com (mid-2001; now dead)
+* geocaching.hu (?)
+* geocaching.ru (?)
+* geogamer.com (Jun, 2002; now dead)
+* geocaching.gpsgames.org (May, 2004)
+* terracaching.com (Oct, 2004)
+* movingcache.com (Dec, 2004; now retired)
+* geocaching.com.au (Jan, 2005)
+* opencaching.de (Aug, 2005)
+* opencaching.pl (Jun, 2006)
+
+
 原文：   
-https://geocaching.gpsgames.org/history/?fbclid=IwAR1RlOUiEMNYyVaYJUQzOrcgpn1praEzDPBnpq2646WvhZdCsSLcC0Bzlb0   
+https://geocaching.gpsgames.org/history/ 
 
 © Shogo Hirasawa, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
